@@ -14,8 +14,8 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC6aMBgQPPrwVYP9iJDu57Nw)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC6aMBgQPPrwVYP9iJDu57Nw)
 &nbsp;&nbsp;
-[![website](./img/twitch-light.svg)](https://www.twitch.tv/jannick_05)
-[![website](./img/twitch-dark.svg)](https://www.twitch.tv/jannick_05)
+[![website](./img/twitter-light.svg)](https://www.twitch.tv/jannick_05)
+[![website](./img/twitter-dark.svg)](https://www.twitch.tv/jannick_05)
 
 ### Languages and Tools:
 
