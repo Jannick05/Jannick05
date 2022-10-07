@@ -9,9 +9,9 @@
   ---
 
   ### :sparkles: About Me : 
- - :telescope: I’m currently working on nothing.
+ - :telescope: I’m currently working on multiple projects.
 
-- :seedling: I’m currently learning fronted and backend.
+- :seedling: I’m currently learning Java.
 
 - :zap: In my free time, I code for fun.
 
