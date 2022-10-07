@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/nwi2TALDbWmvC2Hho0/giphy.gif" width="200"/>
   
   <div id="badges">
-    <a href="https://discord.com/users/392314179932913664"><img src="https://img.shields.io/badge/Discord-brown?style=for-the-badge&logo=Discord&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://discord.com/users/286939747664789504"><img src="https://img.shields.io/badge/Discord-brown?style=for-the-badge&logo=Discord&logoColor=white" alt="LinkedIn Badge"/></a>
   </div>
 </div>
   
