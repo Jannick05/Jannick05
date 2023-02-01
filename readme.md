@@ -1,12 +1,13 @@
 # Hi there, I'm Jannick 👋 
 
-## I'm a Student, Gamer and Developer!!
+## I'm a Student, Gamer and Developer.
 - 🔥 Proficient in **Java** & **Python**.
 - ⚡ Fun fact: I got long arms in Minecraft!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
