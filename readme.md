@@ -1,7 +1,8 @@
-# 👋 Hi, I’m @Jannick05 ![Profile views](https://gpvc.arturio.dev/Jannick05)
+# Hi there, I'm Jannick 👋 
 
-- 🚀 Looking at stars!
-- :rolf_tone5:
+## I'm a Student, Gamer and Developer!!
+- 🔥 Proficient in **Java** & **Python**.
+- ⚡ Fun fact: I got long arms in Minecraft!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
