@@ -1,6 +1,5 @@
 # Hi there, I'm Jannick 👋 
 
-## I'm a Student, Gamer and Developer.
 - 🔥 Proficient in **Java** & **Python**.
 - ⚡ Fun fact: I got long arms in Minecraft!
 
