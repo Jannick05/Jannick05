@@ -1,22 +1,28 @@
-# Hi there, I'm Jannick 👋 
+<h1 align="center">Hi there, I'm Jannick 👋 </h1>
+<h4 align="center"></h4>
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> 
+
+<hr>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jannick05&label=Profile%20views&color=0e75b6&style=flat" alt="jannick05"/> 
+  <img src="https://komarev.com/ghpvc/?username=jannick05&label=Profile%20views&color=0e75b6&style=flat" alt="jannick05"/> 
+</div>
+
+<hr>
 
 - 🔥 Proficient in **Java** & **Python**.
 - ⚡ Fun fact: I got long arms in Minecraft!
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
----
+<hr>
 
 <details>
   <summary>:fire: GitHub Stats</summary>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jannick05&theme=dark&background=262626)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannick05&layout=compact&theme=apprentice)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannick05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jannick05&show_icons=true&theme=dark"
+</div>
 
 </details>
