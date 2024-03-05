@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c" alt="jannick05"/> 
+  <img src="https://komarev.com/ghpvc/?username=jannick05&color=6b84ff" alt="jannick05"/> 
 </div>
 
 <hr>
