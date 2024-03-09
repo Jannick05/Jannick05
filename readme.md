@@ -4,7 +4,7 @@ public class Jannick {
     private int height = 190;
     private String gender = "boy";
     private String color = "blue";
-    private String background = "Electrician Apprentice";
+    private String occupation = "Electrician Apprentice";
 
     public String[] getProfile() {
         return new String[] {
@@ -12,7 +12,7 @@ public class Jannick {
             "height = " + height,
             "gender = " + gender,
             "color = " + color,
-            "background = " + background
+            "occupation = " + occupation
         };
     }
 }
